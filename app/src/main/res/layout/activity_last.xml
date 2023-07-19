@@ -10,7 +10,7 @@
         android:id="@+id/scoreTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="24sp"
+        android:textSize="30sp"
         android:textColor="#000000"
         android:textStyle="bold" />
 
@@ -19,6 +19,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Reiniciar"
+        android:layout_marginTop="16dp"
         android:textColor="#FFFFFF"
         android:background="#800080" />
 
